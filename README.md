@@ -1,1 +1,1 @@
-# simple-ceritfy
+# simple-certify
